@@ -1,0 +1,54 @@
+*{
+    text-align: center;
+    color: #7F7F7F;
+    
+}
+body h2{
+    font-family: Signika;
+    font-size: 18px;
+}
+body h3{
+    font-family: Signika;
+    font-size: 12px;
+    padding-bottom: 0px;
+    position: relative;
+    top: 5px;
+    margin-bottom: 0px;
+}
+
+body p{
+    font-family: Oxygen;
+    font-size: 12px;
+    
+}
+.bloque{
+    width: 180px;
+    height: 220px;
+    float: left;
+    margin-right: 2px;
+    box-shadow: 1px;
+    padding: 16px;
+    background: 	#FBFBFB;
+
+}
+span{
+    font-size: 45px;
+}
+.center{
+    width: 180px;
+    height: 250px;
+    float: left;
+    margin-right: 2px;
+    box-shadow: 1px;
+    padding: 16px;
+    background:	#fff;
+    
+}
+.icon-heart{
+    font-size: 60px;
+    color: #D5D9E5;
+}
+.color{
+    color:#D5D9E5;
+}
+

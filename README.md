@@ -2,11 +2,11 @@
 
 ### Programa: Aplicar lo aprendido.
 
-**Descripción del trabajo**
-Desarrollar un menú con dos estilos de web fonts.
+**Descripción del trabajo:**
+* Desarrollar un menú con dos estilos de web fonts.
 
-**Herramientas utilizadas**
-HTML y CSS
+**Herramientas utilizadas:**
+* HTML y CSS
 
 **Integrantes**
 
